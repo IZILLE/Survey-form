@@ -1,0 +1,11 @@
+body{
+    text-align: center;
+  }
+  p{
+    background-color: aqua;
+    width: 800px;
+    margin: auto;
+  }
+  form{
+    background-color: aliceblue;
+  }
